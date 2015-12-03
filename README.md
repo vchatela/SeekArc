@@ -34,7 +34,7 @@ Touch inside enable/disable.
 
 Simply add the View to your Layout
 
-        <com.triggertrap.seekarc.SeekArc
+        <com.valentinc.seekarc.SeekArc
             android:id="@+id/seekArc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
